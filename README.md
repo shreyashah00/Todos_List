@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+[Click here to view the app]=(https://todos-list-flax.vercel.app)
 ## Available Scripts
 
 In the project directory, you can run:
